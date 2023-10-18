@@ -12,6 +12,8 @@ body {
 .heading {
     text-align: center;
     font-size: 2.5rem;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
 }
 
 .logo {
@@ -31,6 +33,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 1%;
+    border-radius: 25px;
 }
 
 .question-area {
@@ -72,6 +75,7 @@ body {
 
 #answer-box {
     border: none;
+    border-radius: 12px;
     color: #445361;
     display: inline-block;
     height: 40px;
@@ -101,7 +105,7 @@ body {
 
 .btn--big {
     padding-top: 10px;
-    border-radius: 50%;
+    border-radius: 40%;
     background-color: white;
     border: 10px solid;
     width: 100px;
