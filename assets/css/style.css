@@ -74,7 +74,7 @@ body {
 }
 
 #answer-box {
-    border: none;
+    border-color: #445361;
     border-radius: 12px;
     color: #445361;
     display: inline-block;
