@@ -12,8 +12,6 @@ body {
 .heading {
     text-align: center;
     font-size: 2.5rem;
-    margin-top: 5rem;
-    margin-bottom: 3rem;
 }
 
 .logo {
@@ -74,8 +72,7 @@ body {
 }
 
 #answer-box {
-    border-color: #445361;
-    border-radius: 12px;
+    border: none;
     color: #445361;
     display: inline-block;
     height: 40px;
